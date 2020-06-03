@@ -1,0 +1,43 @@
+{
+    "result": "success",
+    "code" : 200,
+    "data" : [
+        {
+            "image": "/assets/images/updates/001.jpg",
+            "style": "linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%), url('/assets/images/updates/001.jpg')",
+            "subTitle" : "SUB TITLE",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        },{
+            "image": "/assets/images/updates/002.png",
+            "style": "linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%), url('/assets/images/updates/002.png')",
+            "subTitle" : "SUB TITLE",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        },{
+            "image": "/assets/images/updates/003.jpg",
+            "style": "linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%), url('/assets/images/updates/003.jpg')",
+            "subTitle" : "SUB TITLE",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        },{
+            "image": "/assets/images/updates/004.jpg",
+            "style": "linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%), url('/assets/images/updates/004.jpg')",
+            "subTitle" : "SUB TITLE",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        },{
+            "image": "/assets/images/updates/005.jpg",
+            "style": "linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%), url('/assets/images/updates/005.jpg')",
+            "subTitle" : "SUB TITLE",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        },{
+            "image": "/assets/images/updates/006.jpg",
+            "style": "linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%), url('/assets/images/updates/006.jpg')",
+            "subTitle" : "SUB TITLE",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        }
+    ]
+}

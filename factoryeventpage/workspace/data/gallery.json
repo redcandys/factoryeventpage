@@ -1,0 +1,37 @@
+{
+    "result": "success",
+    "code" : 200,
+    "data" : [
+        {
+            "image": "/assets/images/gallery/001.jpg",
+            "style": "url('/assets/images/gallery/001.jpg')",
+            "title": "기지를 지어봅시다",
+            "description" : "자원을 채취해서 저장하기 위해서는 기지가 필요해요"
+        },{
+            "image": "/assets/images/gallery/002.jpg",
+            "style": "url('/assets/images/gallery/002.jpg')",
+            "title": "TITLE 002",
+            "description" : "DESCRIPTION"
+        },{
+            "image": "/assets/images/gallery/003.jpg",
+            "style": "url('/assets/images/gallery/003.jpg')",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        },{
+            "image": "/assets/images/gallery/004.jpg",
+            "style": "url('/assets/images/gallery/004.jpg')",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        },{
+            "image": "/assets/images/gallery/005.jpg",
+            "style": "url('/assets/images/gallery/005.jpg')",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        },{
+            "image": "/assets/images/gallery/006.jpg",
+            "style": "url('/assets/images/gallery/006.jpg')",
+            "title": "TITLE",
+            "description" : "DESCRIPTION"
+        }
+    ]
+}
